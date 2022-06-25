@@ -1,0 +1,8 @@
+#wordcloud                 1.8.1 
+#pandas                    1.0.5
+#matplotlib                3.2.2
+#matplotlib-base           3.2.2
+#textblob                  0.17.1 
+#nltk                      3.5
+
+
