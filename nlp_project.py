@@ -50,7 +50,7 @@ def preprocess_texts(df, col, show=False):
     print(df.head())
     return df
 
-df = pd.read_csv("datasets/wiki_data.csv", index_col="Unnamed: 0")
+df = pd.read_csv("datasets/text_data.csv", index_col="Unnamed: 0")
 df = preprocess_texts(df, "text", show="wordcloud")
 
 
